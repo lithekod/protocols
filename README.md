@@ -1,2 +1,3 @@
 # protocols
-Protocols by the Lithe Kod council
+
+Protocols by the Lithe Kod board.
