@@ -1,6 +1,6 @@
 #Mötesprotokoll
 ##LiTHe kod
-##07 jun 2016
+###07 jun 2016
 
 ##Kallade
 Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Dennis Lundberg Amanda Brodell
@@ -78,5 +78,5 @@ Borde kanske  ha tydligare avtal  med IDA. Vill inte göra oss ovänner med Hein
 men borde ha tydligt vad  som är vårat ansvar.
 
 ##Mötet avslutas
-19:41
+19:40
 
