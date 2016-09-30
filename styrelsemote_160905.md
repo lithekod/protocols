@@ -89,6 +89,3 @@ Kanske kan ha mindre events för medlemmar,
 
 ##Mötet avslutas
 18:40
-
-
-*Övrigt: Betalning färg?*
