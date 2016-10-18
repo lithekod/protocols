@@ -31,7 +31,7 @@ Grundläggande gitföreläsning skulle passa på våren i anslutning till  javap
 Kanske ska ha vim eller tangentbord om vi kommer på hur det ska marknadsföra.
 
 ##Operakodstuga
-Passar nog i mitten av december. Ska undersöka när creactive är ledigt. 15e november är preliminärt datum.
+Passar nog i mitten av december. Ska undersöka när creactive är ledigt. 15e december är preliminärt datum.
 
 ##Linkevent
 Har fått ett kontrakt från link. De vill ha storstuga 22:a eller 23:e. 23:e är dpub
