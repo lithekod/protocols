@@ -38,7 +38,7 @@ Robin ska kolla på gammal mail och titta upp pris etc.
 
 Fråga när det ska beställas för att vi ska få det ungefär 15 augusti.
 
-Fixa "GameJam" tryck. Kolla upp med Erik för storlek osv.
+Fixa "GameJam"-tryck. Kolla upp med Erik för storlek osv.
   
 ## Klistermärken
 Kolla upp mail för betällning och lägg en likadan beställning. 
@@ -52,7 +52,7 @@ Det behövs antagligen inte beställas in fler. Det finns en del i förrådet.
 ## Introkväll
 Datum: 08-09-2017
 
-Emil ska maila Dalenius och fråga om vi får boka Ada Lovelace salen.
+Emil ska maila Dalenius och fråga om vi får boka Ada Lovelace-salen.
 
 ## Kodstugor
 Tidigare kört varannan tisdag. Vi fortsätter med tisdagar och ser hur det blir.
@@ -75,7 +75,7 @@ Startar efter kodstugorna.
 Viktor kontaktar olika företag.
 
 ## GitHub
-Viktor ger Robin och Emil tillgång till GitHub repo.
+Viktor ger Robin och Emil tillgång till GitHub-repo.
 
 ## Mötet avslutas
 18:50
