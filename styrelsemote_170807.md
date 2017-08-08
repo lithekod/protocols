@@ -42,6 +42,16 @@ Kolla upp vad för spel/projekt som kan visas upp på kalas.
 Viktor ska skicka ett mail till Spotify och möjligtvis andra företag.
 
 ## Derby
+Robin och Viktor kan vara med.
+
+Vi behöver kolla upp tangentborden från förra årets derby.
+
+## Märkesbackesmålning
+Kolla så vi har tillräckligt med färg kvar och att den redan är blandad med sand.
+
+Få ut lite information om målningen och se om det finns fler intresserade som vill vara med och måla.
+
+Målning sker lördag 12 augusti kl 10 till 15.
 
 ## Mötet avslutas
 18:40
