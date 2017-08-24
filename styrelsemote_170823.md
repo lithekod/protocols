@@ -1,6 +1,6 @@
 # Mötesprotokoll
 ## LiTHe kod
-## {DATUM}
+## 23 Augusti 2017
 
 ## Kallade
 Christoffer Sjöbergsson, Viktor Holmberg, Robin Sliwa, Emil Segerbäck, Erik Mansén
