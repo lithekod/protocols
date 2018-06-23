@@ -2,7 +2,7 @@
 
 ## LiTHe kod
 
-## 22 Juni 2018
+## 23 Juni 2018
 
 ## Kallade
 Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mansén, Emil Segerbäck
