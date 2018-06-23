@@ -4,12 +4,12 @@
 
 ## 22 Juni 2018
 
-##Kallade
+## Kallade
 Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mansén, Emil Segerbäck
 
-##Närvarande
+## Närvarande
 
-##Mötets öppnande
+## Mötets öppnande
 
 ## Nolle-p
 
@@ -23,5 +23,5 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 ## Protokoll från stormöte
 
-##Mötet avslutas
+## Mötet avslutas
 

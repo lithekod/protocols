@@ -4,14 +4,14 @@
 
 ## {DATE}
 
-##Kallade
+## Kallade
 Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mansén, Emil Segerbäck
 
-##Närvarande
+## Närvarande
 
-##Mötets öppnande
+## Mötets öppnande
 
 ...
 
-##Mötet avslutas
+## Mötet avslutas
 
