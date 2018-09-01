@@ -21,6 +21,7 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 ### övrigt
 "Inlägg"-sidan ser konstig ut
+Länk till slack i sidebar?
 
 
 
