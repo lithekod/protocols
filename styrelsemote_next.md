@@ -11,6 +11,18 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 ## Mötets öppnande
 
+## Kalas imorgon
+
+- Vilka kan vara där?
+- Vems skärm skulle vi använda
+- Algoritmvideor
+
+## Introföreläsning
+
+## Introevent
+
+## Meetup idag?
+
 ## Uppdateringar till hemsidan
 
 ### Content
