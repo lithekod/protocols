@@ -13,5 +13,9 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 ...
 
+## Övrigt
+
+## Nästa möte
+
 ## Mötet avslutas
 
