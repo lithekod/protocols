@@ -13,6 +13,9 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 ...
 
+## Recap av Gamejam-Möte
+
+
 ## Övrigt
 
 ## Nästa möte
