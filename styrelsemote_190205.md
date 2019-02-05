@@ -22,6 +22,8 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 - Fråga sponsorer om case
 - Workshops innan?
 
+## Nyhetsbrev & mailchimp
+
 
 ## Övrigt
 
