@@ -1,5 +1,11 @@
 #!/bin/bash
 
+echo "Backlog:"
+rat backlog.md || cat backlog.md
+
+echo "============================================="
+
+
 ADDED_DAYS=0
 if [[ "$1" != "" ]]; then
     ADDED_DAYS=$1
