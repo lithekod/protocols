@@ -22,5 +22,7 @@ sed "s/{DATE}/$(LANG=sv_SE.UTF-8 date -d "$TARGET_DATE" '+%-d %B %Y')/g" \
     > "$filename" \
     < template.md
 
-echo "$filename"
+echo "$filename > next.md"
+rm next.md
+ln -s "$filename" next.md
 
