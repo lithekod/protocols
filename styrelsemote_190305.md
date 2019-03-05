@@ -11,11 +11,16 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 ## Mötets öppnande
 
-...
+## Coding cup
+
+- Boka salar
+- Mer?
+
+## Hackathon
+
+- Hårdvara
 
 ## Fredrik Heintz pengar
-
-## Recap av Gamejam-Möte
 
 
 ## Övrigt
