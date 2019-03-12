@@ -15,7 +15,16 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 Möte med y-fadderiet torsdag 15:00?
 
+## Gamejam-DNS
+
+## Coding cup
+
+Anmälningsformulär
+
+
 ## Recap av Gamejam-Möte
+
+## Hackathon
 
 
 ## Övrigt
