@@ -13,6 +13,8 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 
 ## Coding cup
 
+Sectra kanske har någon representant där
+
 - Vilka kan vara där?
 - Mat
 
