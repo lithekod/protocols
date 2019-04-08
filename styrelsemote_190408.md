@@ -12,11 +12,21 @@ Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mans
 ## Mötets öppnande
 
 ## Ekonomi
+
 - Hur ligger vi till?
 - Hur mycket har vi kvar att spendera?
 - Kan vi spendera så mycket? Isåfall på vad?
 
-## Recap av Gamejam-Möte
+## Recap av Hackathon
+
+- ESG som lokal
+
+## Ny styrelse
+
+## Nolle-P
+
+
+## Jubileum
 
 
 ## Övrigt
