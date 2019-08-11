@@ -5,7 +5,7 @@
 ## {DATE}
 
 ## Kallade
-Christoffer Sjöbergsson, Frans Skarman, Viktor Holmgren, Robin Sliwa, Erik Mansén, Emil Segerbäck
+Erik Mattfolk, Annie Wång, Edvard Thörnros, Gabriel Tofvesson, Olav Övrebö, Axel Nordanskog
 
 ## Närvarande
 

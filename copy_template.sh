@@ -1,7 +1,9 @@
 #!/bin/bash
 
 echo "Backlog:"
-rat backlog.md || cat backlog.md
+# Who even uses rat, WTF?
+# rat backlog.md
+cat backlog.md
 
 echo "============================================="
 
