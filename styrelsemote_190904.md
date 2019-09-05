@@ -20,7 +20,7 @@ Hålls senare samma dag (onsdag).
 
 ## Kalas-mottagningen
 Hålls nästa dag (torsdag).
-Vi drag förlängningskabel. Får vi dra förlängningskabel? Behöver man betala extra för det? Gjorde förra styrelsen det? Backup-lösning: Egenmedförd generator (disclaimer: skämtsamt?).
+Vi drar förlängningskabel. Får vi dra förlängningskabel? Behöver man betala extra för det? Gjorde förra styrelsen det? Backup-lösning: Egenmedförd generator (disclaimer: skämtsamt?).
 Vi är på mässområden i Terra.
 Gabriel och Olav tar med varsin dator.
 
@@ -48,15 +48,15 @@ Tröjor har ännu inte kunnat beställas.
 Vi inväntar fortfarande svar från Attentec om sponsring. Vi ger dem 2,5 arbetsdagar till innan de får påminnelsmail.
 
 ## Mötes-notifikationer
-Edvard kom sent :( pga att han glömt mötet och önskar däröfr en bot för notifkationer i Slack.
-Det löses istället med att möten läggs in i styreslekalendern enligt åvan.
+Edvard kom sent :( pga att han glömt mötet och önskar därför en bot för notifkationer i Slack.
+Det löses istället med att möten läggs in i styreslekalendern enligt ovan.
 
 ## Förenade datorföreningar
 Har sin grund i delad kalender. Får även ett gemensamt nyhetsbrev.
 Skapa projekt-/arbetsgrupp med ett par medlemmar per förening.
 Föreningar fortsätter att vara självstyrande.
 PR-ansvarig Erik (tvångs?)-nomineras som representant från LiTHe kod.
-Börjar med Linköpingsförenignar och integrerar Norrköpingsföreningar på sikt. På än längre sikt tar vi över hela världen (mohahaha).
+Börjar med Linköpingsföreningar och integrerar Norrköpingsföreningar på sikt. På än längre sikt tar vi över hela världen (mohahaha).
 
 ## Nästa möte
 Samma tid nästa vecka. (Onsdag 11:e september 12:15-13:00)
