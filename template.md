@@ -5,7 +5,7 @@
 ## {DATE}
 
 ## Kallade
-Erik Mattfolk, Annie Wång, Edvard Thörnros, Gabriel Tofvesson, Olav Övrebö, Axel Nordanskog
+Erik Mattfolk, Annie Wång, Edvard Thörnros, Gabriel Tofvesson, Olav Övrebö, Axel Nordanskog, Hugo Hörnquist
 
 ## Närvarande
 
