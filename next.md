@@ -1,1 +1,1 @@
-styrelsemote_191016.md
+styrelsemote_191106.md
