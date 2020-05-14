@@ -5,10 +5,10 @@
 ## 30 April 2020
 
 ## Kallade
-Erik Mattfolk, Annie Wång, Edvard Thörnros, Gabriel Tofvesson, Olav Övrebö, Axel Nordanskog, Agnes Wentd, Gustav Sörnäs, Victor Lells, Hugo Hörnquist
+Erik Mattfolk, Annie Wång, Edvard Thörnros, Gabriel Tofvesson, Olav Övrebö, Axel Nordanskog, Agnes Wendt, Gustav Sörnäs, Victor Lells, Hugo Hörnquist
 
 ## Närvarande
-Gabriel Tofvesson, Olav Övrebö, Agnes Wentd, Gustav Sörnäs, Victor Lells
+Gabriel Tofvesson, Olav Övrebö, Agnes Wendt, Gustav Sörnäs, Victor Lells
 
 ## Mötets öppnande
 
