@@ -1,24 +1,25 @@
-# Mötesprotokoll
-
-## LiTHe kod
+# Mötesprotokoll LiTHe kod 
 
 ## {DATE}
 
 ## Kallade
-Erik Mattfolk, Annie Wång, Edvard Thörnros, Gabriel Tofvesson, Olav Övrebö, Axel Nordanskog, Agnes Wendt, Gustav Sörnäs, Victor Lells, Hugo Hörnquist
+- Victor Lells
+- Erik Mattfolk
+- Gustav Sörnäs
+- Edvard Thörnros
+- Gabriel Tofvesson
+- Agnes Wendt
+- Annie Wång
+- Olav Övrebö
 
 ## Närvarande
 
 ## Mötets öppnande
 
-...
-
-## Recap av Gamejam-Möte
-
+## Recap av Gamejam-möte
 
 ## Övrigt
 
 ## Nästa möte
 
 ## Mötet avslutas
-
