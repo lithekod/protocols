@@ -50,7 +50,7 @@
 - Marknadsföring till nya medlemmar
   - Lektioner/föreläsningar => no can do (i år).
   - Kanske vara tydligare med meeetups, vad fokus är och vad som händer.
-  - Nästa år kanske göra lite reklam på TDDE86, har gått bra förut.
+  - Nästa år kanske göra lite reklam på TDDD86, har gått bra förut.
   - Styrelsen kan agera inkluderande på meetups mot nya medlemmar som kanske
     inte har någon att hänga med annars.
 - Nollepresentationen

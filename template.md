@@ -16,8 +16,6 @@
 
 ## Mötets öppnande
 
-## Recap av Gamejam-möte
-
 ## Övrigt
 
 ## Nästa möte
