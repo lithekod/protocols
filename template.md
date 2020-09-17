@@ -1,4 +1,4 @@
-# Mötesprotokoll LiTHe kod 
+# Mötesprotokoll LiTHe kod
 
 ## {DATE}
 
