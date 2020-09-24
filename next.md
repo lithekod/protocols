@@ -1,1 +1,1 @@
-styrelsemote_200917.md
+styrelsemote_200924.md
