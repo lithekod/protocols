@@ -3,6 +3,7 @@
 ## {DATE}
 
 ## Kallade
+
 - Victor Lells
 - Erik Mattfolk
 - Gustav Sörnäs
