@@ -22,7 +22,6 @@
 - Gabriel Tofvesson
 - Agnes Wendt
 - Annie Wång
-- Olav Övrebö
 
 ## Mötets öppnande 12:15
 
