@@ -48,16 +48,16 @@
   - Priser
     - Budgeten finns
     - Bumpa priserna lite
-      1. 1500
-      2. 1100
-      3. 750
-      4. 500
-      5. 500
-      6. 500
-      7. 250
-      8. 250
-      9. 250
-      10. 250
+      - 1500
+      - 1100
+      - 750
+      - 500
+      - 500
+      - 500
+      - 250
+      - 250
+      - 250
+      - 250
     - Satsa mer på välgörenhet
     - 10 kronor per stjärna
   - Poster
