@@ -1,5 +1,7 @@
 #!/bin/bash
 
+VERKSAMHET_YEAR="20-21/"
+
 echo "Backlog:"
 # Who even uses rat, WTF?
 # rat backlog.md
@@ -17,7 +19,7 @@ CURRENT_DATE="$(date +%Y-%m-%d)"
 
 TARGET_DATE=$(date "+%Y-%m-%d" -d "$CURRENT_DATE + $ADDED_DAYS day")
 
-filename="styrelsemote_$(date "+%y%m%d" -d "$TARGET_DATE").md"
+filename="${VERKSAMHET_YEAR}styrelsemote_$(date "+%y%m%d" -d "$TARGET_DATE").md"
 
 
 sed "s/{DATE}/$(LANG=sv_SE.UTF-8 date -d "$TARGET_DATE" '+%-d %B %Y')/g" \
