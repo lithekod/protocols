@@ -21,7 +21,6 @@
 - Edvard Thörnros
 - Agnes Wendt
 - Annie Wång
-- Olav Övrebö
 
 ## Mötets öppnande 12:19
 
