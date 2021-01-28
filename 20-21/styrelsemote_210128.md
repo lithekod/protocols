@@ -19,7 +19,6 @@
 - Erik Mattfolk
 - Gustav Sörnäs
 - Edvard Thörnros
-- Gabriel Tofvesson
 - Agnes Wendt
 - Annie Wång
 
