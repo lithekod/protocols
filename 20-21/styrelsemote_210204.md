@@ -24,10 +24,6 @@
 
 ## Mötets öppnande 12.15
 
-post git (Gustav Sörnäs)
-IDA-infront kontrakt (Edvard (FredTheDino) Thörnros)
-NCPC-Tröjor (Victor Lells)
-
 - git-föreläsningen igår
   - MYCKET bra uppslutning
   - Facebook är bra, tydligen
