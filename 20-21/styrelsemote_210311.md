@@ -57,7 +57,7 @@
   - Lödöl
     - Inte säkert att det går i höst ens
   - 3D-skrivare finns
-- Kodapa och databasne på autostart @Gustav
+- Kodapa och medlemsdatabasen på autostart @Gustav
 
 ## Övrigt
 
