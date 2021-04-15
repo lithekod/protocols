@@ -9,6 +9,13 @@ Protocols from "stormöten" are also kept here.
 Finally, `grep` (or equivalent) is your friend :). Try to write `grep`-able
 protocols.
 
+## Usage
+
+There is a helper script called `copy.sh` that creates a new protocol and
+automatically fills in the current date (or another date, should you so wish).
+See `$ ./copy.sh --help` for usage. By default the file `template.md` is read
+and `{DATE}` is replaced by the current date.
+
 ## Previous boards
 
 ### 2020-2021

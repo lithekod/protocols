@@ -1,32 +1,43 @@
-#!/bin/bash
+#!/bin/sh
+date=$(date +%y%m%d)
 
-VERKSAMHET_YEAR="20-21/"
+VERKSAMHET_YEAR="20-21/" # Update me at July 1st!
 
-echo "Backlog:"
-# Who even uses rat, WTF?
-# rat backlog.md
-cat backlog.md
+template="template.md"
 
-echo "============================================="
+while [[ $# -gt 0 ]]; do
+    arg="$1"
+    case $arg in
+        --date|-d)
+            shift
+            date="$1"
+            shift
+            ;;
+        --template|-t)
+            shift
+            template="$1"
+            shift
+            ;;
+        --help|-h)
+            shift
+            echo "usage: $0 [--help|-h] [--date|-d <date>] [--template|-t <template-file>]"
+            echo ""
+            echo "Create a new empty protocol from a template."
+            exit 0
+            ;;
+        *)
+            echo "unknown option: $1"
+            echo "Run '$0 --help' for usage"
+            exit 1
+            ;;
+    esac
+done
 
+file="${VERKSAMHET_YEAR}styrelsemote_$(date --date="$date" +%y%m%d).md"
 
-ADDED_DAYS=0
-if [[ "$1" != "" ]]; then
-    ADDED_DAYS=$1
-fi
+sed "s/{DATE}/$(date --date="$date" '+%-d %B %Y')/g" \
+    > "$file" \
+    < "$template"
 
-CURRENT_DATE="$(date +%Y-%m-%d)"
-
-TARGET_DATE=$(date "+%Y-%m-%d" -d "$CURRENT_DATE + $ADDED_DAYS day")
-
-filename="${VERKSAMHET_YEAR}styrelsemote_$(date "+%y%m%d" -d "$TARGET_DATE").md"
-
-
-sed "s/{DATE}/$(LANG=sv_SE.UTF-8 date -d "$TARGET_DATE" '+%-d %B %Y')/g" \
-    > "$filename" \
-    < template.md
-
-echo "$filename > next.md"
-rm next.md -f
-ln -s "$filename" next.md
-
+unlink next.md
+ln -s "$file" next.md
