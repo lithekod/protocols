@@ -1,7 +1,7 @@
 #!/bin/sh
 date=$(date +%y%m%d)
 
-VERKSAMHET_YEAR="20-21/" # Update me at July 1st!
+VERKSAMHET_YEAR="21-22/" # Update me at July 1st!
 
 template="template.md"
 
