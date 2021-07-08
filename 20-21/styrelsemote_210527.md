@@ -75,6 +75,6 @@
   - TBD
 
 ## Nästa möte
-
+Nästa Torsdag
 
 ## Mötet avslutas 12:52

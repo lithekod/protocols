@@ -17,7 +17,7 @@
 - Gustav Sörnäs
 - Lowe Kozak
 - Axel Telenius
-- Thea Calqvist
+- Thea Carlqvist
 
 ## Mötets öppnande 18:19
 - Spons av Kogvet
