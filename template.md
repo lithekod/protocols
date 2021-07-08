@@ -8,10 +8,9 @@
 - Erik Mattfolk
 - Gustav Sörnäs
 - Edvard Thörnros
-- Gabriel Tofvesson
-- Agnes Wendt
-- Annie Wång
-- Olav Övrebö
+- Thea Carlqvist
+- Lowe Kozak
+- Axel Telenius
 
 ## Närvarande
 
