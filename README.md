@@ -20,13 +20,13 @@ and `{DATE}` is replaced by the current date.
 
 ### 2021-2022
 
-Ordförande: Gustav Sörnäs
-Kassör: Victor Lells
-Vice ordförande: Lowe Kozak
-Webb: Erik Mattfolk
-Verksamhetsansvarig: Axel Telenius
-Game Jam-ansvarig: Thea Carlqvist
-Revisor: Edvard Thörnros
+- Ordförande: Gustav Sörnäs
+- Kassör: Victor Lells
+- Vice ordförande: Lowe Kozak
+- Webb: Erik Mattfolk
+- Verksamhetsansvarig: Axel Telenius
+- Game Jam-ansvarig: Thea Carlqvist
+- Revisor: Edvard Thörnros
 
 ### 2020-2021
 
